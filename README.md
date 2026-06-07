@@ -1,4 +1,5 @@
 Aperçu
+
 Ce projet met en œuvre une architecture multi-services conteneurisée avec Docker Compose. Il s'agit d'une stack hybride pilotant simultanément une base de données SQL (MySQL) et une base de données NoSQL (MongoDB), liées par une API développée en FastAPI.
 
 L'application expose des données relatives à la saison 2026 de Formule 1, incluant les profils des pilotes et des actualités techniques sur les nouvelles réglementations.
